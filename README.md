@@ -9,6 +9,13 @@
 http://localhost:7007
 
 
+## Exec
+```
+k -n backstage exec -it backstage-7b66fc56dd-v4gpb -- sh
+```
+
+
+
 
 
 ## Clean up:

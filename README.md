@@ -7,3 +7,5 @@
 ```
 
 http://localhost:7007
+
+kind delete clusters backstage

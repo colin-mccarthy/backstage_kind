@@ -26,4 +26,4 @@ helm repo add bitnami https://charts.bitnami.com/bitnami
 
 helm repo add backstage https://backstage.github.io/charts
 
-helm install backstage  backstage/backstage --version 1.8.0  --create-namespace --namespace backstage
+helm install backstage  backstage/backstage --create-namespace --namespace backstage

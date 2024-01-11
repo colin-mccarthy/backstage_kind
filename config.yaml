@@ -1,0 +1,11 @@
+  image:
+
+    # -- Backstage image registry
+    registry: ghcr.io
+
+    # -- Backstage image repository
+    repository: backstage/backstage
+
+    # -- Backstage image tag (immutable tags are recommended)
+    tag: latest
+                

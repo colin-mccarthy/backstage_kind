@@ -18,3 +18,9 @@ apiVersion: kind.x-k8s.io/v1alpha4
 nodes:
 - role: control-plane
 EOF
+
+echo " ✓ helm repo add bitnami https://charts.bitnami.com/bitnami 📦 "
+##helm
+helm repo add bitnami https://charts.bitnami.com/bitnami
+
+helm repo add backstage https://backstage.github.io/charts

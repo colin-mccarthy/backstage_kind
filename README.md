@@ -8,10 +8,12 @@
 
 http://localhost:7007
 
+
+
+
+##Clean up:
+
 kind delete clusters backstage
-
-
-Troubleshooting:
 
 bind: address already in use unable to create listener: Error
 
